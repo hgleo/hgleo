@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hgleo
 - 👀 I’m interested in learn many lenguages
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and JS 
 - 💞️ I’m looking to collaborate on C
+-  Santander Bootcamp Fullstack Developer by DIO
 
 
 <!---
